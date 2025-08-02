@@ -4,7 +4,7 @@ This project aims to create a comprehensive web platform that enhances the unive
 
 The following features represent the initial development phase, with plans to incorporate additional functionality once complete as well as getting the website hosted. 
 
-For Students Academic Progress Tracking -View average grades with personalized insights showing proximity to the next grade tier -Motivational feedback system to boost academic confidence
+Students Academic Progress Tracking -View average grades with personalized insights showing proximity to the next grade tier -Motivational feedback system to boost academic confidence
 
 Study Group Formation -Connect with course-mates to form collaborative study groups -Facilitate meetups for discussing course material and building peer relationships -Specially designed to bridge the social gap for part-time students
 
