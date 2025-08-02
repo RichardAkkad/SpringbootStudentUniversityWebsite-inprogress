@@ -2,7 +2,9 @@
     
 This project aims to create a comprehensive web platform that enhances the university experience for all students, with particular focus on part-time and evening students (like I was myself at one point) who often miss out on traditional campus resources. The platform also provides tools for lecturers to better support their students.
 
-The following features represent the initial development phase, with plans to incorporate additional functionality once complete as well as getting the website hosted. For Students Academic Progress Tracking -View average grades with personalized insights showing proximity to the next grade tier -Motivational feedback system to boost academic confidence
+The following features represent the initial development phase, with plans to incorporate additional functionality once complete as well as getting the website hosted. 
+
+For Students Academic Progress Tracking -View average grades with personalized insights showing proximity to the next grade tier -Motivational feedback system to boost academic confidence
 
 Study Group Formation -Connect with course-mates to form collaborative study groups -Facilitate meetups for discussing course material and building peer relationships -Specially designed to bridge the social gap for part-time students
 
